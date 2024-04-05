@@ -1,4 +1,5 @@
-Django: python -m django startproject backend
+Django: 
+python -m django startproject backend
 
 React:  
 npm install -g create-react-app
