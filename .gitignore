@@ -1,0 +1,20 @@
+# Backend (Django) project
+/backend/venv/
+/backend/local_settings.py
+# /backend/static/
+# /backend/media/
+/backend/.idea/
+/backend/.vscode/
+/backend/*.log
+/backend/**/migrations/
+*.pyc
+__pycache__/
+local_settings.py
+
+# Frontend (React) project
+/backend/frontend/node_modules/
+# /backend/frontend/build/
+/backend/frontend/.env.local
+/backend/frontend/.env.development.local
+/backend/frontend/.env.test.local
+/backend/frontend/.env.production.local
